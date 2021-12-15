@@ -1,6 +1,6 @@
 ﻿# Serilog demo
 
-Demo of Serilog. See console and file (/logs/mylog.log in /bin folder)
+Simple Serilog demo. See console, debug/output and file (/logs/ in /bin folder)
 
 ## Packages
 
@@ -12,6 +12,6 @@ See project-file
 - Levels: https://github.com/serilog/serilog/wiki/Configuration-Basics#minimum-level
 - Format: https://github.com/serilog/serilog/wiki/Formatting-Output#formatting-plain-text
 
-## Simple log app
+## Simple log view app
 
 SnakeTail: http://snakenest.com/snaketail/
