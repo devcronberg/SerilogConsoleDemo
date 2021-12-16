@@ -25,7 +25,7 @@ namespace SerilogConsoleDemo
             }
             catch (Exception ex)
             {
-                Log.Error(ex, "Something went wrong!");
+                Log.Logger.Error(ex, "Something went wrong!");
             }
             finally
             {
